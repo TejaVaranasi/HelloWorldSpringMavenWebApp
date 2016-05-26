@@ -4,18 +4,21 @@ This is the sample spring web applications which has one api which returns Hello
 
 Project Include features like
 
-Spring : Spring framework is an open source Java platform that provides comprehensive infrastructure support for developing robust Java applications very easily and very rapidly.
+#Spring :
 
-Maven : Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.
+Spring framework is an open source Java platform that provides comprehensive infrastructure support for developing robust Java applications very easily and very rapidly.
+
+#Maven :
+Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.
 
 To get the code:
 
-Clone the repository:
+#Clone the repository:
 
 https://github.com/TejaVaranasi/HelloWorldSpringMavenWebApp.git
 
 
-To run the application:
+#To run the application:
 
 mvn clean compile package
 
